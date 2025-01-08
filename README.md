@@ -1,3 +1,3 @@
 # File-Transfer-Using-Netcat
 
-currecntly working on
+currently working on...
